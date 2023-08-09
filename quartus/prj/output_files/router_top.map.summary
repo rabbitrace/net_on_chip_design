@@ -1,0 +1,17 @@
+Analysis & Synthesis Status : Successful - Sun Aug 06 01:51:30 2023
+Quartus Prime Version : 18.0.0 Build 614 04/24/2018 SJ Standard Edition
+Revision Name : router_top
+Top-level Entity Name : router_top
+Family : Cyclone V
+Logic utilization (in ALMs) : N/A
+Total registers : 10410
+Total pins : 9
+Total virtual pins : 0
+Total block memory bits : 512
+Total DSP Blocks : 0
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 0
+Total DLLs : 0

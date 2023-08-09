@@ -1,0 +1,105 @@
+m255
+K3
+13
+cModel Technology
+Z0 dG:\XiaoMeige_fpga_System\class\class11_uart_tx\prj\simulation\modelsim
+vissp
+IVM2S70QK:RMP[z>X@QGG^2
+V_lWCcaFPc:2F=Tk3EiORZ3
+Z1 dG:\XiaoMeige_fpga_System\class\class11_uart_tx\prj\simulation\modelsim
+w1442753808
+8G:/XiaoMeige_fpga_System/class/class11_uart_tx/prj/ip/issp.v
+FG:/XiaoMeige_fpga_System/class/class11_uart_tx/prj/ip/issp.v
+L0 39
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-vlog01compat -work work -O0
+!i10b 1
+!s100 UY[kQ9fcUhbCR[9HFa2SN1
+!s85 0
+!s108 1450751095.457000
+!s107 G:/XiaoMeige_fpga_System/class/class11_uart_tx/prj/ip/issp.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+G:/XiaoMeige_fpga_System/class/class11_uart_tx/prj/ip|G:/XiaoMeige_fpga_System/class/class11_uart_tx/prj/ip/issp.v|
+!s101 -O0
+!s92 -vlog01compat -work work +incdir+G:/XiaoMeige_fpga_System/class/class11_uart_tx/prj/ip -O0
+vkey_filter
+IXj8TkGM6`R@FRkC;CFmB^3
+VcmQS:L56j<?^X7Q2YZ0eD2
+R1
+w1442753552
+8G:/XiaoMeige_fpga_System/class/class11_uart_tx/rtl/key_filter.v
+FG:/XiaoMeige_fpga_System/class/class11_uart_tx/rtl/key_filter.v
+L0 1
+R2
+r1
+31
+R3
+Z4 !s92 -vlog01compat -work work +incdir+G:/XiaoMeige_fpga_System/class/class11_uart_tx/rtl -O0
+!i10b 1
+!s100 C9PAlBOIkD3F^ZjAK?iGV2
+!s85 0
+!s108 1450751095.247000
+!s107 G:/XiaoMeige_fpga_System/class/class11_uart_tx/rtl/key_filter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+G:/XiaoMeige_fpga_System/class/class11_uart_tx/rtl|G:/XiaoMeige_fpga_System/class/class11_uart_tx/rtl/key_filter.v|
+!s101 -O0
+vuart_byte_tx
+IeXaYA]^FL8olgfW0<>2M:3
+Vfdg2RF=>LIZSQoIj;dU@E0
+R1
+w1443531388
+8G:/XiaoMeige_fpga_System/class/class11_uart_tx/rtl/uart_byte_tx.v
+FG:/XiaoMeige_fpga_System/class/class11_uart_tx/rtl/uart_byte_tx.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 3P5TPE@7JOb2baPNALi^n2
+!s85 0
+!s108 1450751094.327000
+!s107 G:/XiaoMeige_fpga_System/class/class11_uart_tx/rtl/uart_byte_tx.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+G:/XiaoMeige_fpga_System/class/class11_uart_tx/rtl|G:/XiaoMeige_fpga_System/class/class11_uart_tx/rtl/uart_byte_tx.v|
+!s101 -O0
+vuart_byte_tx_tb
+!i10b 1
+!s100 1E7HbPhAV7W;Y[oR3>BGf3
+IE1jKDTD0I@5YDeEM<aASO0
+Vhz0O90OzR]9AWELPE^WlD0
+R1
+w1442753190
+8G:/XiaoMeige_fpga_System/class/class11_uart_tx/prj/../testbench/uart_byte_tx_tb.v
+FG:/XiaoMeige_fpga_System/class/class11_uart_tx/prj/../testbench/uart_byte_tx_tb.v
+L0 4
+R2
+r1
+!s85 0
+31
+!s108 1450751095.737000
+!s107 G:/XiaoMeige_fpga_System/class/class11_uart_tx/prj/../testbench/uart_byte_tx_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+G:/XiaoMeige_fpga_System/class/class11_uart_tx/prj/../testbench|G:/XiaoMeige_fpga_System/class/class11_uart_tx/prj/../testbench/uart_byte_tx_tb.v|
+!s101 -O0
+R3
+!s92 -vlog01compat -work work +incdir+G:/XiaoMeige_fpga_System/class/class11_uart_tx/prj/../testbench -O0
+vuart_tx_top
+IhNhi;J2UocPIRcYz@i;:o2
+V<kW1ckL_<8a95?o7Mmz^j2
+R1
+w1442754570
+8G:/XiaoMeige_fpga_System/class/class11_uart_tx/rtl/uart_tx_top.v
+FG:/XiaoMeige_fpga_System/class/class11_uart_tx/rtl/uart_tx_top.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 SkfbRCAPINU90zC248^0N0
+!s85 0
+!s108 1450751094.937000
+!s107 G:/XiaoMeige_fpga_System/class/class11_uart_tx/rtl/uart_tx_top.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+G:/XiaoMeige_fpga_System/class/class11_uart_tx/rtl|G:/XiaoMeige_fpga_System/class/class11_uart_tx/rtl/uart_tx_top.v|
+!s101 -O0

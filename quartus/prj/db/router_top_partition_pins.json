@@ -1,0 +1,45 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "error_led",
+					"strict" : false
+				},
+				{
+					"name" : "error_con",
+					"strict" : false
+				},
+				{
+					"name" : "Rs232_Tx",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "nreset",
+					"strict" : false
+				},
+				{
+					"name" : "key_data",
+					"strict" : false
+				},
+				{
+					"name" : "key_cnt",
+					"strict" : false
+				},
+				{
+					"name" : "key_out",
+					"strict" : false
+				},
+				{
+					"name" : "key_in",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
